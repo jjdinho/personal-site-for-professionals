@@ -20,3 +20,43 @@
  * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:900;src:url(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(../webfonts/fa-solid-900.woff2) format("woff2"),url(../webfonts/fa-solid-900.woff) format("woff"),url(../webfonts/fa-solid-900.ttf) format("truetype"),url(../webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.fas{font-family:'Font Awesome 5 Free';font-weight:900}
 /*# sourceMappingURL=theme.min.css.map */
+
+.pt-hero {
+  background-image: url("assets/images/justyn-warner-532062-unsplash-edit.jpg");
+  background-color: transparent;
+}
+
+.p-img-1 { background-image: url("assets/images/goh-rhy-yan-273919-unsplash.jpg");}
+.p-img-2 { background-image: url("assets/images/rodrigo-kugnharski-449601-unsplash.jpg");}
+.p-img-3 { background-image: url("assets/images/action-blue-diver-863988.jpg");}
+.p-img-4 { background-image: url("assets/images/victor-freitas-667520-unsplash.jpg");}
+
+
+          .pt-hero h1 {
+            color: #343a40;
+          }
+          .hero-text {
+            color: #343a40;
+          }
+          .bg-color, #wrapper-footer-full {
+            background-color: #e9ecef;
+          }
+
+          .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, nav {
+            font-family: 'Oswald', "Arial", sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI";
+          }
+
+          body {
+            font-family: 'Roboto',"Arial", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji";
+          }
+
+          nav a, a, .button-fp, .button-fp:hover, .text-primary, .testimonials-quote-l, .testimonials-quote-r, .wpcf7-form label, .btn-outline-primary, .wpcf7 input[type=submit] { color: #33a1fd !important; }
+          .carousel-indicators li, .btn-primary { background-color: #33a1fd !important; }
+          .btn-primary, .btn-outline-primary, .wpcf7 input[type=submit] { border-color: #33a1fd !important; }
+
+          nav a:hover, a:hover, .wpcf7-form label:focus, .card-body:hover span { color: #fdca40 !important; }
+          .button-fp, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary, .btn-outline-primary:hover, .wpcf7 input:hover[type=submit], .card-img-left { border-color: #fdca40 !important; }
+          .button-fp, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary, .btn-outline-primary:hover, .wpcf7 input:hover[type=submit], .carousel-indicators .active { background-color: #fdca40 !important; }
+
+          .wpcf7 input:hover[type=submit], .btn-primary, .btn-outline-primary:hover { color: #ffffff !important; }
+
