@@ -9896,7 +9896,7 @@ img.wp-post-image {
   background-attachment: fixed;
   background-size: cover;
   color: rgb(250,250,250);
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
 }
 
 .pt-hero-col {
@@ -10100,6 +10100,7 @@ body {
   background-color: #fdca40;
   color: #33a1fd;
   border-color: #fdca40
+  text-shadow: none;
 }
 
 .button-fp:hover {
